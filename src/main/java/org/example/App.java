@@ -10,7 +10,7 @@ public class App
 {
     public static void main(String[] args) {
         TestVagrant tv = new TestVagrant();
-        int count = tv.getNumberOfForeignPlayersInTeam();
-        System.out.println("Foreign players : " + count);
+        System.out.println("Foreign players count: " + tv.getNumberOfForeignPlayersInTeam());
+        System.out.println("Wicket-Keeper count : " + tv.getWicketKeeperCount());
     }
 }
