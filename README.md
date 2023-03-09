@@ -7,4 +7,5 @@
 
 ## How to execute 
 - Clone the repo
-- Run project and junit test cases.
+- Sync pom.xml dependecny
+- Run project and junit test cases [TestVagrantTest].
